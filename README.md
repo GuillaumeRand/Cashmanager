@@ -17,3 +17,4 @@ On the other side, you are expected to build a server application that will hand
 Bonuses You can improve this project in many ways, including: • adding a real authentication protocol with security checks • building an admin view for the server (either directly with a java graphical lib or as additional features for the android app that are available only for admin people) • conduct a full functional testing process through an external platform according to tour qualification specs • adding formal specification documents, including various uml diagrams
 
 
+<img width="391" alt="Capture d’écran 2021-12-16 à 4 21 56 PM" src="https://user-images.githubusercontent.com/92919706/146399694-028a8324-f11c-4e03-b6fb-337baac930e4.png"> <img width="396" alt="Capture d’écran 2021-12-16 à 4 22 20 PM" src="https://user-images.githubusercontent.com/92919706/146399707-06396b4c-2c71-4d2a-bbad-22cd151a22dd.png">
